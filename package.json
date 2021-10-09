@@ -1,0 +1,17 @@
+{
+  "name": "nodejssss",
+  "version": "1.0.0",
+  "description": "priti priyaaa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "priyaaaa",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^13.6.0"
+  }
+}
